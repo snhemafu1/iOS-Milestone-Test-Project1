@@ -1,0 +1,89 @@
+Merge branch 'main' of https://github.com/snhemafu1/iOS-Milestone-Test-Project1 into main
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch and 'origin/main' have diverged,
+# and have 1 and 1 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   IBOutlet/IBOutlet.xcodeproj/project.pbxproj
+#	renamed:    Stack View/Stack View.xcodeproj/project.xcworkspace/contents.xcworkspacedata -> IBOutlet/IBOutlet.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	renamed:    Stack View/Stack View.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist -> IBOutlet/IBOutlet.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+#	new file:   IBOutlet/IBOutlet.xcodeproj/project.xcworkspace/xcuserdata/sunitanhemafuki.xcuserdatad/UserInterfaceState.xcuserstate
+#	renamed:    Stack View/Stack View.xcodeproj/xcuserdata/sunitanhemafuki.xcuserdatad/xcschemes/xcschememanagement.plist -> IBOutlet/IBOutlet.xcodeproj/xcuserdata/sunitanhemafuki.xcuserdatad/xcschemes/xcschememanagement.plist
+#	new file:   IBOutlet/IBOutlet/AppDelegate.swift
+#	renamed:    Stack View/Stack View/Assets.xcassets/AppIcon.appiconset/Contents.json -> IBOutlet/IBOutlet/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	renamed:    Stack View/Stack View/Assets.xcassets/Contents.json -> IBOutlet/IBOutlet/Assets.xcassets/Contents.json
+#	renamed:    Stack View/Stack View/Base.lproj/LaunchScreen.storyboard -> IBOutlet/IBOutlet/Base.lproj/LaunchScreen.storyboard
+#	new file:   IBOutlet/IBOutlet/Base.lproj/Main.storyboard
+#	renamed:    Stack View/Stack View/Info.plist -> IBOutlet/IBOutlet/Info.plist
+#	new file:   IBOutlet/IBOutlet/SceneDelegate.swift
+#	new file:   IBOutlet/IBOutlet/ViewController.swift
+#	new file:   Inspiration/.gitignore
+#	new file:   Inspiration/Hello World/Hello World.xcodeproj/project.pbxproj
+#	new file:   Inspiration/Hello World/Hello World.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	new file:   Inspiration/Hello World/Hello World.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+#	new file:   Inspiration/Hello World/Hello World.xcodeproj/project.xcworkspace/xcuserdata/sunitanhemafuki.xcuserdatad/UserInterfaceState.xcuserstate
+#	new file:   Inspiration/Hello World/Hello World.xcodeproj/xcuserdata/sunitanhemafuki.xcuserdatad/xcschemes/xcschememanagement.plist
+#	renamed:    Stack View/Stack View/AppDelegate.swift -> Inspiration/Hello World/Hello World/AppDelegate.swift
+#	new file:   Inspiration/Hello World/Hello World/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	renamed:    Stack View/Stack View/Assets.xcassets/Background.imageset/Background.jpg -> Inspiration/Hello World/Hello World/Assets.xcassets/Background.imageset/Background.jpg
+#	renamed:    Stack View/Stack View/Assets.xcassets/Background.imageset/Background@2x.jpg -> Inspiration/Hello World/Hello World/Assets.xcassets/Background.imageset/Background@2x.jpg
+#	renamed:    Stack View/Stack View/Assets.xcassets/Background.imageset/Background@3x.jpg -> Inspiration/Hello World/Hello World/Assets.xcassets/Background.imageset/Background@3x.jpg
+#	renamed:    Stack View/Stack View/Assets.xcassets/Background.imageset/Contents.json -> Inspiration/Hello World/Hello World/Assets.xcassets/Background.imageset/Contents.json
+#	new file:   Inspiration/Hello World/Hello World/Assets.xcassets/Contents.json
+#	renamed:    Stack View/Stack View/Assets.xcassets/Email.imageset/Contents.json -> Inspiration/Hello World/Hello World/Assets.xcassets/Email.imageset/Contents.json
+#	renamed:    Stack View/Stack View/Assets.xcassets/Email.imageset/Email.png -> Inspiration/Hello World/Hello World/Assets.xcassets/Email.imageset/Email.png
+#	renamed:    Stack View/Stack View/Assets.xcassets/Email.imageset/Email@2x.png -> Inspiration/Hello World/Hello World/Assets.xcassets/Email.imageset/Email@2x.png
+#	renamed:    Stack View/Stack View/Assets.xcassets/Email.imageset/Email@3x.png -> Inspiration/Hello World/Hello World/Assets.xcassets/Email.imageset/Email@3x.png
+#	renamed:    Stack View/Stack View/Assets.xcassets/FB.imageset/Contents.json -> Inspiration/Hello World/Hello World/Assets.xcassets/FB.imageset/Contents.json
+#	renamed:    Stack View/Stack View/Assets.xcassets/FB.imageset/FB.png -> Inspiration/Hello World/Hello World/Assets.xcassets/FB.imageset/FB.png
+#	renamed:    Stack View/Stack View/Assets.xcassets/FB.imageset/FB@2x.png -> Inspiration/Hello World/Hello World/Assets.xcassets/FB.imageset/FB@2x.png
+#	renamed:    Stack View/Stack View/Assets.xcassets/FB.imageset/FB@3x.png -> Inspiration/Hello World/Hello World/Assets.xcassets/FB.imageset/FB@3x.png
+#	renamed:    Stack View/Stack View/Assets.xcassets/Google.imageset/Contents.json -> Inspiration/Hello World/Hello World/Assets.xcassets/Google.imageset/Contents.json
+#	renamed:    Stack View/Stack View/Assets.xcassets/Google.imageset/Google.png -> Inspiration/Hello World/Hello World/Assets.xcassets/Google.imageset/Google.png
+#	renamed:    Stack View/Stack View/Assets.xcassets/Google.imageset/Google@2x.png -> Inspiration/Hello World/Hello World/Assets.xcassets/Google.imageset/Google@2x.png
+#	renamed:    Stack View/Stack View/Assets.xcassets/Google.imageset/Google@3x.png -> Inspiration/Hello World/Hello World/Assets.xcassets/Google.imageset/Google@3x.png
+#	new file:   Inspiration/Hello World/Hello World/Base.lproj/LaunchScreen.storyboard
+#	new file:   Inspiration/Hello World/Hello World/Base.lproj/Main.storyboard
+#	new file:   Inspiration/Hello World/Hello World/Info.plist
+#	renamed:    Stack View/Stack View/SceneDelegate.swift -> Inspiration/Hello World/Hello World/SceneDelegate.swift
+#	new file:   Inspiration/Hello World/Hello World/ViewController.swift
+#	renamed:    Stack View/Stack View.xcodeproj/project.pbxproj -> Inspiration/HelloWorld1/HelloWorld1.xcodeproj/project.pbxproj
+#	new file:   Inspiration/HelloWorld1/HelloWorld1.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	new file:   Inspiration/HelloWorld1/HelloWorld1.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+#	new file:   Inspiration/HelloWorld1/HelloWorld1.xcodeproj/project.xcworkspace/xcuserdata/sunitanhemafuki.xcuserdatad/UserInterfaceState.xcuserstate
+#	new file:   Inspiration/HelloWorld1/HelloWorld1.xcodeproj/xcuserdata/sunitanhemafuki.xcuserdatad/xcschemes/xcschememanagement.plist
+#	new file:   Inspiration/HelloWorld1/HelloWorld1/AppDelegate.swift
+#	new file:   Inspiration/HelloWorld1/HelloWorld1/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	new file:   Inspiration/HelloWorld1/HelloWorld1/Assets.xcassets/Contents.json
+#	renamed:    Stack View/Stack View/Base.lproj/Main.storyboard -> Inspiration/HelloWorld1/HelloWorld1/Base.lproj/LaunchScreen.storyboard
+#	new file:   Inspiration/HelloWorld1/HelloWorld1/Base.lproj/Main.storyboard
+#	new file:   Inspiration/HelloWorld1/HelloWorld1/Info.plist
+#	new file:   Inspiration/HelloWorld1/HelloWorld1/SceneDelegate.swift
+#	renamed:    Stack View/Stack View/ViewController.swift -> Inspiration/HelloWorld1/HelloWorld1/ViewController.swift
+#	new file:   Inspiration/README.md
+#	new file:   Inspiration/iOS-app.docx
+#	deleted:    Stack View/Stack View.xcodeproj/project.xcworkspace/xcuserdata/sunitanhemafuki.xcuserdatad/UserInterfaceState.xcuserstate
+#	modified:   StackView/StackView.xcodeproj/project.xcworkspace/xcuserdata/sunitanhemafuki.xcuserdatad/UserInterfaceState.xcuserstate
+#
+# Changes not staged for commit:
+#	modified:   IBOutlet/IBOutlet/ViewController.swift
+#
